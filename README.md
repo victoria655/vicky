@@ -9,8 +9,7 @@ This web application offers a user-friendly interface, seamless gameplay, and an
 
 Enjoy the game, and let the best move win! 🚀🎉
 
-
-
+link to the live site =https://victoria655.github.io/vicky/
 
 
 
