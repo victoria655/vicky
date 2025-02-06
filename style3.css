@@ -1,0 +1,46 @@
+.game{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(game.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+body{
+    overflow: hidden;
+    
+}
+.game{
+    text-align: center;
+}
+.game button{
+    margin-top: 50vh;
+}
+
+.rock{
+   
+    margin-right: 10vw;
+
+    
+}
+.paper{
+   
+    margin-right: 10vw;
+    
+}
+.scissors{
+    margin-right: 10vw;
+
+}
+#result{
+    width: 700px;
+    height: 100px;
+    background-color: white;
+    margin-top: 175px;
+    margin-left: 700px;
+}
+a h1{
+    margin-left: 80vw;
+    margin-top: 50px;
+}
+

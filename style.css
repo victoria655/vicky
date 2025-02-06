@@ -1,0 +1,65 @@
+body{
+    overflow:hidden ;
+    background-image: url(pic.jpg);
+}
+
+
+.pics{
+    width: 700px;
+    height: 700px;
+}
+.carousel-inner{
+    position: relative;
+    left: 30vw;
+    top:10vh;
+    }
+
+.hero{
+    position: relative;
+    
+}
+    
+.form a{
+    text-decoration: none;
+    
+} 
+.form{
+    position: absolute;
+    margin-left: 70vw;
+    background-color: transparent;
+}
+.head{
+    
+    justify-content: center;
+    
+}
+.head h1{
+    color: gold;
+    margin-left: 40vw;
+    }
+.head p{
+    color: gold;
+    margin-top: 40px;
+    margin-left:40vw;
+}
+.fm{
+    margin-left: 40vw;
+    color: gold;
+}
+.of{
+    width: 100px;
+    height: 100px;
+    background-color: aliceblue;
+}
+.review{
+    position: absolute;
+    background-color: transparent;
+}
+.review a{
+    text-decoration: none;
+}
+
+
+
+
+
